@@ -1,0 +1,4 @@
+IntentFilterList_android.intent.action.MAIN
+HardwareComponentsList_android.hardware.touchscreen
+ActivityList_se.blunden.xbmclauncher.MainActivity
+ActivityList_se.blunden.xbmclauncher.LauncherSettingsActivity

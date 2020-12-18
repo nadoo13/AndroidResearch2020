@@ -1,0 +1,5 @@
+SuspiciousApiList_Landroid/content/pm/PackageManager.getPackageInfo
+IntentFilterList_android.intent.action.VIEW
+IntentFilterList_android.intent.action.DIAL
+IntentFilterList_android.intent.action.MAIN
+ActivityList_.app.LaunchActivity

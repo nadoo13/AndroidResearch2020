@@ -1,0 +1,11 @@
+SuspiciousApiList_Landroid/view/KeyEvent.getDeviceId
+SuspiciousApiList_Landroid/content/Context.getSystemService
+SuspiciousApiList_Landroid/content/pm/PackageManager.getPackageInfo
+RestrictedApiList_android.location.LocationManager.isProviderEnabled
+RestrictedApiList_android.location.LocationManager.getLastKnownLocation
+IntentFilterList_android.intent.action.MAIN
+ActivityList_org.nixgame.ruler.ActivityAbout
+ActivityList_org.nixgame.ruler.SettingsActivity
+ActivityList_org.nixgame.ruler.ActivityCalibrationRuler
+ActivityList_org.nixgame.ruler.ActivityLanguage
+ActivityList_org.nixgame.ruler.MainActivity

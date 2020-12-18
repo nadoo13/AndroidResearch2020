@@ -1,0 +1,6 @@
+ServiceList_.ClockService
+SuspiciousApiList_Landroid/content/Context.getSystemService
+IntentFilterList_android.service.wallpaper.WallpaperService
+HardwareComponentsList_android.software.live_wallpaper
+ActivityList_.ClockSettingsActivity
+RequestedPermissionList_android.software.live_wallpaper

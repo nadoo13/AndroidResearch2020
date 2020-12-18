@@ -1,0 +1,13 @@
+SuspiciousApiList_Landroid/content/Context.getSystemService
+SuspiciousApiList_Landroid/content/pm/PackageManager.getPackageInfo
+SuspiciousApiList_Ljava/lang/Runtime;->exec
+RestrictedApiList_android.net.ConnectivityManager.getActiveNetworkInfo
+IntentFilterList_android.intent.action.VIEW
+IntentFilterList_android.intent.action.MAIN
+HardwareComponentsList_android.hardware.touchscreen
+HardwareComponentsList_android.software.leanback
+ActivityList_com.unlocker.MainActivity
+ActivityList_com.unlocker.TVMainActivity
+ActivityList_com.unlocker.purchase.PurchaseActivity
+RequestedPermissionList_com.android.vending.BILLING
+RequestedPermissionList_android.permission.INTERNET

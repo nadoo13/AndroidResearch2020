@@ -1,0 +1,6 @@
+SuspiciousApiList_Landroid/content/pm/PackageManager.getPackageInfo
+IntentFilterList_android.intent.action.MAIN
+HardwareComponentsList_android.hardware.camera
+ActivityList_ZXingTestActivity
+ActivityList_BenchmarkActivity
+RequestedPermissionList_android.permission.CAMERA

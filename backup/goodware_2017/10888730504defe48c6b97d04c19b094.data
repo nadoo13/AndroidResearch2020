@@ -1,0 +1,16 @@
+UsedPermissionsList_android.permission.ACCESS_NETWORK_STATE
+SuspiciousApiList_Landroid/content/Context.getSystemService
+SuspiciousApiList_Ljava/io/IOException;->printStackTrace
+IntentFilterList_android.intent.action.MAIN
+ActivityList_com.jetcost.ui.ZUIWebViewActivity_
+ActivityList_com.jetcost.ui.ZUIServiceSelectedActivity_
+ActivityList_com.jetcost.ui.ZUIPassengersSelectionActivity_
+ActivityList_com.jetcost.ui.ZUIHomeActivity_
+ActivityList_com.jetcost.jetcost.ZStartupActivity_
+ActivityList_com.jetcost.ui.ZUIDateSelectionActivity_
+ActivityList_com.jetcost.ui.ZUILocationSearchActivity_
+ActivityList_com.jetcost.ui.ZUISelectionListActivity_
+ActivityList_com.jetcost.ui.ZUIWebViewExternalActivity_
+ActivityList_com.jetcost.ui.ZUIFlagListActivity_
+RequestedPermissionList_android.permission.ACCESS_NETWORK_STATE
+RequestedPermissionList_android.permission.INTERNET

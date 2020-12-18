@@ -1,0 +1,10 @@
+ServiceList_com.afkettler.earth.Wallpaper
+BroadcastReceiverList_com.afkettler.earth.UpdateReceiver
+SuspiciousApiList_Landroid/content/Context.getSystemService
+RestrictedApiList_android.app.NotificationManager.notify
+IntentFilterList_android.intent.action.PACKAGE_REPLACED
+IntentFilterList_android.intent.action.MAIN
+IntentFilterList_android.service.wallpaper.WallpaperService
+HardwareComponentsList_android.software.live_wallpaper
+ActivityList_com.afkettler.earth.SettingsActivity
+ActivityList_com.afkettler.earth.LauncherActivity

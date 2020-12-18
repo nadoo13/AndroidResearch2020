@@ -1,0 +1,4 @@
+ServiceList_SwampWaterWallpaperService
+IntentFilterList_android.service.wallpaper.WallpaperService
+HardwareComponentsList_android.software.live_wallpaper
+ActivityList_.SwampWaterSettings

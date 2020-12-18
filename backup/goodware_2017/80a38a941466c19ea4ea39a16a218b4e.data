@@ -1,0 +1,6 @@
+SuspiciousApiList_Landroid/content/pm/PackageManager.getPackageInfo
+IntentFilterList_com.jb.mms.theme.others
+IntentFilterList_android.intent.action.MAIN
+ActivityList_.ThemePreviewActivity
+ActivityList_com.jb.gosms.preview.ThemeActivity
+ActivityList_.GoSmsInstallDialog

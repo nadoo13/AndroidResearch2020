@@ -1,0 +1,5 @@
+SuspiciousApiList_Landroid/content/Context.getSystemService
+IntentFilterList_android.intent.action.MAIN
+ActivityList_.MainActivity
+RequestedPermissionList_android.permission.BLUETOOTH
+RequestedPermissionList_android.permission.BLUETOOTH_ADMIN
